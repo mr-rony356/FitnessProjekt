@@ -1,0 +1,35 @@
+baseURL = "http://mein-fitness.ch/"
+languageCode = "de-de"
+title = "Fitness-Projekt"
+theme = "ananke"
+
+
+[params]
+  author = "Pashk Gjokaj"
+  description = "Dein Fitness-Projekt zur Verbesserung der Gesundheit und Fitness"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Startseite"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Über das Projekt"
+    url = "/ueber/ueber-das-projekt/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "nutrition"
+    name = "Ernährungsplan"
+    url = "/ernaehrungsplan/plan/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "exercises"
+    name = "Trainingsplan"
+    url = "/uebungen/trainingsplan/"
+    weight = 4

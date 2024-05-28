@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #333;
+    color: rgb(225, 48, 48);
+    text-align: center;
+    padding: 1em 0;
+}
+
+.navbar {
+    margin: 1em 0;
+}
+
+.navbar a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 15px;
+    display: inline-block; /* Sicherstellen, dass die Links nebeneinander angezeigt werden */
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+@media (min-width: 600px) {
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    section {
+        flex: 0 0 45%;
+    }
+}
