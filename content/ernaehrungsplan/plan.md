@@ -1,5 +1,5 @@
 ---
-title: "Ernährungsplan für die Woche"
+title: "Ernährungsplan"
 date: 2024-05-24
 ---
 

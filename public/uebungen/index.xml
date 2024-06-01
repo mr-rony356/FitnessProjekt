@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/uebungen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trainingsplan</title>
+      <link>http://localhost:1313/uebungen/trainingsplan-monday/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/uebungen/trainingsplan-monday/</guid>
+      <description>Montag 15 Minuten Aufwärmen (z.B. Joggen)&#xA;4x 12 Kniebeugen mit Gewichten&#xA;4x 12 Bankdrücken&#xA;4x 20 Russian Twists&#xA;15 Minuten Dehnen</description>
+    </item>
+    <item>
+      <title>Trainingsplan</title>
       <link>http://localhost:1313/uebungen/trainingsplan/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/uebungen/trainingsplan/</guid>
