@@ -1,4 +1,4 @@
-baseURL = "https://pashk123.github.io/FitnessProjekt/"
+baseURL = "http://mein-fitness.ch/"
 languageCode = "de-de"
 title = "Fitness-Projekt"
 theme = "ananke"
