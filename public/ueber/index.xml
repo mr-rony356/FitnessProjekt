@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uebers on Fitness-Projekt</title>
-    <link>https://Pashk123.github.io/FitnessProjekt/ueber/</link>
+    <link>http://localhost:1313/ueber/</link>
     <description>Recent content in Uebers on Fitness-Projekt</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Pashk123.github.io/FitnessProjekt/ueber/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ueber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Über das Projekt</title>
-      <link>https://Pashk123.github.io/FitnessProjekt/ueber/ueber-das-projekt/</link>
+      <link>http://localhost:1313/ueber/ueber-das-projekt/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://Pashk123.github.io/FitnessProjekt/ueber/ueber-das-projekt/</guid>
+      <guid>http://localhost:1313/ueber/ueber-das-projekt/</guid>
       <description>Dieses Fitness-Projekt zielt darauf ab, Gesundheit und Fitness durch strukturierte Übungen und Ernährungspläne zu verbessern.&#xA;Ich spiele auch leidenschaftlich gerne Fußball und mein Ziel ist es, meine Fitness für den Sport zu verbessern. Fußball erfordert eine Kombination aus Kondition, Kraft und Ausdauer, und dieses Projekt hilft mir dabei, diese Fähigkeiten aufzubauen und zu stärken.&#xA;Meine Ziele Kondition aufbauen: Durch gezieltes Ausdauertraining möchte ich meine Kondition verbessern, um während eines gesamten Fußballspiels leistungsfähig zu bleiben.</description>
     </item>
   </channel>

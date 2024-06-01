@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ernaehrungsplans on Fitness-Projekt</title>
-    <link>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/</link>
+    <link>http://localhost:1313/ernaehrungsplan/</link>
     <description>Recent content in Ernaehrungsplans on Fitness-Projekt</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ernaehrungsplan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ernährungsplan für die Woche</title>
-      <link>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/plan/</link>
+      <link>http://localhost:1313/ernaehrungsplan/plan/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/plan/</guid>
+      <guid>http://localhost:1313/ernaehrungsplan/plan/</guid>
       <description>Montag Frühstück:&#xA;Haferflocken mit Beeren, Nüssen und Honig Grüner Tee Mittagessen:&#xA;Gegrilltes Hähnchenbrustfilet mit Quinoa und Gemüse (Brokkoli, Karotten, Paprika) Abendessen:&#xA;Gebackener Lachs mit Süßkartoffeln und Spargel Snack:&#xA;Apfelscheiben mit Erdnussbutter Dienstag Frühstück:&#xA;Vollkornbrot mit Avocado und Spiegelei Frischer Orangensaft Mittagessen:&#xA;Linsensalat mit Feta, Tomaten, Gurken und einem Olivenöl-Zitronen-Dressing Abendessen:&#xA;Rindfleischpfanne mit Paprika, Zucchini und Zwiebeln Snack:&#xA;Mandeln und Walnüsse Mittwoch Frühstück:&#xA;Griechischer Joghurt mit Honig und Walnüssen Banane Mittagessen:</description>
     </item>
   </channel>
