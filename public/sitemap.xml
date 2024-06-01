@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ernaehrungsplan/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ernaehrungsplan/plan/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/plan/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uebungen/trainingsplan/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/uebungen/trainingsplan/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ueber/ueber-das-projekt/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/ueber/ueber-das-projekt/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ueber/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/ueber/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/uebungen/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/uebungen/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://Pashk123.github.io/FitnessProjekt/tags/</loc>
   </url>
 </urlset>

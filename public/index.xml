@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fitness-Projekt</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Pashk123.github.io/FitnessProjekt/</link>
     <description>Recent content on Fitness-Projekt</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Pashk123.github.io/FitnessProjekt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ernährungsplan für die Woche</title>
-      <link>http://localhost:1313/ernaehrungsplan/plan/</link>
+      <link>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/plan/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ernaehrungsplan/plan/</guid>
+      <guid>https://Pashk123.github.io/FitnessProjekt/ernaehrungsplan/plan/</guid>
       <description>Montag Frühstück:&#xA;Haferflocken mit Beeren, Nüssen und Honig Grüner Tee Mittagessen:&#xA;Gegrilltes Hähnchenbrustfilet mit Quinoa und Gemüse (Brokkoli, Karotten, Paprika) Abendessen:&#xA;Gebackener Lachs mit Süßkartoffeln und Spargel Snack:&#xA;Apfelscheiben mit Erdnussbutter Dienstag Frühstück:&#xA;Vollkornbrot mit Avocado und Spiegelei Frischer Orangensaft Mittagessen:&#xA;Linsensalat mit Feta, Tomaten, Gurken und einem Olivenöl-Zitronen-Dressing Abendessen:&#xA;Rindfleischpfanne mit Paprika, Zucchini und Zwiebeln Snack:&#xA;Mandeln und Walnüsse Mittwoch Frühstück:&#xA;Griechischer Joghurt mit Honig und Walnüssen Banane Mittagessen:</description>
     </item>
     <item>
       <title>Trainingsplan</title>
-      <link>http://localhost:1313/uebungen/trainingsplan/</link>
+      <link>https://Pashk123.github.io/FitnessProjekt/uebungen/trainingsplan/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/uebungen/trainingsplan/</guid>
+      <guid>https://Pashk123.github.io/FitnessProjekt/uebungen/trainingsplan/</guid>
       <description>Montag 15 Minuten Aufwärmen (z.B. Joggen) 4x 12 Kniebeugen mit Gewichten 4x 12 Bankdrücken 4x 20 Russian Twists 15 Minuten Dehnen Dienstag 5 km Lauf (mittleres Tempo) 3x 10 Liegestütze 3x 15 Ausfallschritte (pro Bein) 3x 20 Sit-Ups Mittwoch 10 Minuten Aufwärmen (z.B. Seilspringen) 4x 12 Ausfallschritte mit Gewichten (pro Bein) 4x 12 Schulterdrücken 4x 45 Sekunden Plank 15 Minuten Dehnen Donnerstag Sprinttraining: 10x 100 Meter Sprints mit 2 Minuten Pause zwischen den Sprints 3x 10 Burpees 3x 20 Mountain Climbers 3x 30 Sekunden Plank Freitag 15 Minuten Aufwärmen (z.</description>
     </item>
     <item>
       <title>Über das Projekt</title>
-      <link>http://localhost:1313/ueber/ueber-das-projekt/</link>
+      <link>https://Pashk123.github.io/FitnessProjekt/ueber/ueber-das-projekt/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ueber/ueber-das-projekt/</guid>
+      <guid>https://Pashk123.github.io/FitnessProjekt/ueber/ueber-das-projekt/</guid>
       <description>Dieses Fitness-Projekt zielt darauf ab, Gesundheit und Fitness durch strukturierte Übungen und Ernährungspläne zu verbessern.&#xA;Ich spiele auch leidenschaftlich gerne Fußball und mein Ziel ist es, meine Fitness für den Sport zu verbessern. Fußball erfordert eine Kombination aus Kondition, Kraft und Ausdauer, und dieses Projekt hilft mir dabei, diese Fähigkeiten aufzubauen und zu stärken.&#xA;Meine Ziele Kondition aufbauen: Durch gezieltes Ausdauertraining möchte ich meine Kondition verbessern, um während eines gesamten Fußballspiels leistungsfähig zu bleiben.</description>
     </item>
   </channel>
