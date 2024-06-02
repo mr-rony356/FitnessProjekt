@@ -9,7 +9,7 @@
     <meta name="author" content="Pashk Gjokaj">
 
     <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="/FitnessProjekt/css/custom.css">
+    <link rel="stylesheet" href="/css/custom.css">
 </head>
 
 <body>
@@ -21,6 +21,8 @@
                 {{ end }}
             </nav>
         </header>
+        <div class="container">
+
         <div class="welcome-text">
             {{ if .IsHome }}
             
@@ -28,7 +30,6 @@
             
             {{ end }}
         </div>
-        <div class="container">
         <main>
             {{ if .IsHome }}
             
@@ -58,10 +59,11 @@
             {{ block "main" . }}{{ end }}
             {{ end }}
         </main>
-        <footer>
-            <p>Kontakt: pashk.gjokaj@edu.teko.ch</p>
-        </footer>
     </div>
+    <footer>
+        <p>Kontakt: pashk.gjokaj@edu.teko.ch</p>
+    </footer>
+
 </body>
 
 </html>

@@ -5,13 +5,16 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
 }
 
 /* Container for Flexbox Layout */
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   margin: 0 50px;
   text-align: center;
 }
@@ -70,9 +73,6 @@ main {
   margin-top: 1em;
 }
 
-.section article {
-  margin-bottom: 1em;
-}
 
 .section .button {
   display: inline-block;
@@ -83,11 +83,11 @@ main {
   text-decoration: none;
   border-radius: 4px;
 }
-.container ul {
+/* .container ul {
     display: flex;
-    align-items: center;
+    align-items: center
 
-}
+} */
 article{
     text-align: left;
 }
