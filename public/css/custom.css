@@ -83,16 +83,11 @@ main {
   text-decoration: none;
   border-radius: 4px;
 }
-/* .container ul {
-    display: flex;
-    align-items: center
-
-} */
 article{
     text-align: left;
 }
 article h3{
-    text-align: center !important;
+    text-align: left !important;
 }
 .section .button:hover {
   background-color: #006400; /* Lighter green on hover */
